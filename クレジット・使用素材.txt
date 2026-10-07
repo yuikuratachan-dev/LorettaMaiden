@@ -1,0 +1,151 @@
+─────────────────────────────────────────────────────────────────────
+ロレッタ・メイデン 〜適合率0%の劣等兵〜
+
+制作：ノヴァソイル
+X(旧Twitter):https://x.com/koshino_hi
+Ci-en：https://ci-en.dlsite.com/creator/27742
+
+─────────────────────────────────────────────────────────────────────
+◆クレジット/使用素材
+─────────────────────────────────────────────────────────────────────
+[RPGツクールMZ/MV]
+
+権利表記：「©Gotcha Gotcha Games Inc./YOJI OJIMA 2020」
+
+─────────────────────────────────────────────────────────────────────
+[シナリオ]
+
+ノヴァソイル
+
+─────────────────────────────────────────────────────────────────────
+[システム]
+
+ノヴァソイル
+
+─────────────────────────────────────────────────────────────────────
+[イラスト]
+
+小宮はむし様
+3月様
+SiYeong様
+Kunne.nuy様
+
+─────────────────────────────────────────────────────────────────────
+[プラグイン]
+
+NUUN様
+Thirop様
+Effekseer様
+nz_prizm様
+panda様
+Ruたん様
+砂川赳様
+莞爾の草様
+木星ペンギン様
+drowsepost様
+terunon's Lab様
+tomoaky様
+ツキミ様
+Artemis様
+うなぎおおとろ様
+Moghunter様
+ru_shalm様
+DarkPla様
+munokura様
+タツノコ様
+IdiotExceptio様
+あわやまたな様
+ルルの教会様
+しぐれん様
+SumRndmDde様
+アイストマトバズーカ様
+mattuup様
+ケケー様
+Yuki Katsura様
+えーしゅん様
+奈々様
+SumRndmDde様
+くらむぼん様
+
+─────────────────────────────────────────────────────────────────────
+[アニメーション]
+
+EVFXプレイグドクター　© Dreams Circl
+EVFXチャームフォージ　© Dreams Circle
+EVFXシャインフォージ　© Dreams Circle
+EVFXシェードフォージ　© Dreams Circle
+EVFXブレイズフォージ　© Dreams Circle
+EVFXフロストフォージ　© Dreams Circle
+EVFXフラッドフォージ　© Dreams Circle
+EVFXストーンフォージ　© Dreams Circle
+EVFXストームフォージ　© Dreams Circle
+EVFXスパークフォージ　© Dreams Circle
+EVFX念動力者　　　　　© Dreams Circle
+EVFX聖域　　　　　　　© Dreams Circle
+EVFX打撃　　　　　　　© Dreams Circle
+
+─────────────────────────────────────────────────────────────────────
+[タイルセット/キャラクター]
+
+エンシェントダンジョン・タイルセット素材集 for MV
+(C) Celianna
+KR太陽と月の神殿タイルセット(C) Gotcha Gotcha Game
+KR神聖なる大聖堂タイルセット(C) Gotcha Gotcha Games
+KRダークアカデミア図書館タイルセット(C) Gotcha Gotcha Games
+KRスティームパンク - 内装タイルセット(C) Gotcha Gotcha Games
+KR伝説の宮殿 - 人魚の城タイル(C) Gotcha Gotcha Games
+KR エレメンタルダンジョンタイルセット闇光雷金(C) Gotcha Gotcha Games
+KR エレメンタルダンジョンタイルセット天緑氷時(C) Gotcha Gotcha Games
+【MV】クラシックファンタジー・建物タイルセット素材集(C) Gotcha Gotcha Games
+魔法使いの隠れ家タイルセット(C) Gotcha Gotcha Games
+ヒロイン素材集3(C) Gotcha Gotcha Game
+マルムギモンスターパック(C) Gotcha Gotcha Games
+コミュ将様
+ゆきはな様
+よわぴよ マップチップ素材集
+フォルス様
+hiddenone様
+レティラナティス (Retiranatis)様
+羽倉房様デザイン
+白黒洋菓子店
+学生服・男女 Hiroita
+そーいち　王国興亡記
+魚圭様
+軍人キャラクター素材集
+軍人キャラクター素材集2
+RPGキャラクター素材集10
+
+─────────────────────────────────────────────────────────────────────
+[UI]
+
+空想曲線　スプルース-豪華版(ゲームUIセット vol.12)
+空想曲線　ティール-豪華版(ゲームUIセット vol.10)
+
+─────────────────────────────────────────────────────────────────────
+[戦闘背景]
+
+（c）みにくる(みにくる背景CG素材集『ファンタジー編』part06)
+ みんちりえ
+
+─────────────────────────────────────────────────────────────────────
+[BGM/SE]
+
+Future Cyberpunk Collection Vol.1
+著作権フリー素材集 Vol.08 BGM10曲、ジングル3曲、効果音100個
+[BGM素材] Tokyo Prism Chronicles Game Music
+Modern_Day_Massive_Music_Pack
+Gothic Castle Music DLC
+ユーフルカ
+On-Jin ～音人～
+R18音声素材第一弾:琴音あかり full ver
+R18音声素材第4弾:御上 サツキ full ver
+R18音声素材第11弾:乙坂キノ Full ver
+R18音声素材第6弾:猫乃しろね Full ver
+R18音声素材第7弾:唯井 マリサ Full ver
+
+─────────────────────────────────────────────────────────────────────
+[フォント]
+
+ロゴたいぷゴシックCondense
+
+─────────────────────────────────────────────────────────────────────
